@@ -1,0 +1,17 @@
+[
+{
+	"id" : "rob",
+	"caption": "Rob",
+	"children":
+	[
+	{
+		"caption" : "Step",
+		"command" : "step"
+	},
+	{
+		"caption" : "Debug",
+		"command" : "debug"
+	}
+	]
+}
+]
